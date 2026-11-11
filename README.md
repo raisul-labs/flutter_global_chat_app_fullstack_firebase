@@ -1,4 +1,4 @@
-# globalchat
+# globalchatapp
 
 A new Flutter project.
 
